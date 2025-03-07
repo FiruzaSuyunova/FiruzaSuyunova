@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am from Uzbekistan Studying at the UzSWLU (3/4) Internship in Flutter I worked as a teacher about 4 years IELTS certificate B2
 <!--
 **FiruzaSuyunova/FiruzaSuyunova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
