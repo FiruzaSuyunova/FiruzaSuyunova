@@ -1,7 +1,7 @@
-## Hi there , I am Firuza Suyunova
+## Hi , I am Firuza Suyunova
 
 
-**Flutter Developer** | Passionate about building beautiful and functional mobile apps
+ Passionate about building beautiful and functional mobile apps
 
 -  From Uzbekistan
 -  Studying at the **UzSWLU (4/4)**
