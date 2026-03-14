@@ -11,5 +11,5 @@
   Contributed to educational and literacy projects. 
   Working with a team to organize learning initiatives
 -  How to reach me: ushsgshs362@gmail.com
--  Telegram : @FiruzaSuyunova
+-  Telegram : [FiruzaSuyunova](https://t.me/FeruzaSuyunova)
 -  Phone: +99894 739 46 40
