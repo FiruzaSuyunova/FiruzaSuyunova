@@ -6,8 +6,8 @@
 -  From Uzbekistan
 -  Studying at the **UzSWLU (4/4)**
 -  Expanding my knowledge in **Flutter & Dart** development
--  Graduated PDP academy (July 2025)
--  Intern at Mutolaaxona - Mutolaa project (July 2025 - Janury 2026)-
+-  Graduated **PDP academy** (July 2025)
+-  Intern at **Mutolaaxona - Mutolaa** project (July 2025 - Janury 2026)-
   Participated in reading promotion activities. 
   Contributed to educational and literacy projects. 
   Working with a team to organize learning initiatives
